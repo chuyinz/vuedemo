@@ -1,8 +1,8 @@
 # myvuedemo
 
-####a demo to practice vue.
+#### a demo to practice vue.
 
-#####version instruction:
+##### version instruction:
 
 20200817:
 
