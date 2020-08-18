@@ -1,4 +1,4 @@
-# myvuedemo
+# vuedemo
 
 #### a demo to practice vue.
 
