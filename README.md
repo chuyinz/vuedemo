@@ -8,6 +8,10 @@
 
 combine the application of navi-menu, partial rendering, v-bind for class, incline-block(css), etc
 
+20200917：
+
+using service worker to implement offline assessment.
+
 ## Project setup
 ```
 npm install
